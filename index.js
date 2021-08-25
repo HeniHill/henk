@@ -5,7 +5,7 @@ let app=express();
 
 let server=http.createServer(app);
 
-app.use("/",(req,res)=>{
+app.get('/',(req,res)=>{
   res.send("WELCOME TO NODE JS");
 });
 
