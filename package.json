@@ -1,0 +1,14 @@
+{
+  "name": "henk",
+  "version": "1.0.0",
+  "description": "node application for heroku test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "henoke",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
