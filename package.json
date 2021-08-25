@@ -4,7 +4,8 @@
   "description": "node application for heroku test",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+      "node": "10.15.3",
+     "node": "6.4.1"
   },
   "scripts": {
     "start":"node index.js",
